@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
-import jsonimport os
+import json
+import os
 from dotenv import load_dotenv
 
 # Load environment variables at the very start
